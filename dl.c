@@ -188,6 +188,6 @@ char* perm(mode_t mode) // 권한
 // ** 참고 자료 및 사이트 **
 // 수업 자료 dir_list/list2.c
 // 수업 자료 getopt_ex/getopt_long_ex1.c
-// sooprmx.com/archives/4993
+// soooprmx.com/archives/4993
 // withcoding.com/89
 // egloos.zum.com/rabe/v/1374613
